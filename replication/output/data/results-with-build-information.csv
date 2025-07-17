@@ -1,0 +1,2 @@
+project;merge commit;className;method;left modifications;has_build;left deletions;right modifications;right deletions;realistic case path
+HikariCP;1bca94af9ec625f21d1b58ff10efb5be71ab87a6;com.zaxxer.hikari.HikariPool;addConnection();[356, 372, 374, 365];true;[];[339, 340, 341, 342, 343, 344, 345, 362, 346, 348];[];

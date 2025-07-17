@@ -1,0 +1,8 @@
+project;merge commit;className;method;left modifications;has_build;left deletions;right modifications;right deletions;realistic case path
+antlr4;69ff2669eec265e25721dbc27cb00f6c381d0b41;org.antlr.v4.codegen.target.Python2Target;python2Keywords;[64];true;[];[53];[];
+antlr4;69ff2669eec265e25721dbc27cb00f6c381d0b41;org.antlr.v4.codegen.target.Python3Target;python3Keywords;[64];true;[];[53];[];
+netty;193acdb36cd3da9bfc62dd69c4208dff3f0a2b1b;org.jboss.netty.handler.codec.frame.LengthFieldBasedFrameDecoder;decode(ChannelHandlerContext, Channel, ChannelBuffer);[358, 360];true;[];[322, 374];[];
+OpenTripPlanner;4c506dce43775704919d084f0acfba86d251bf4a;org.opentripplanner.routing.spt.MultiShortestPathTree;dominates(State, State);[144, 146, 147, 148, 149, 152, 141];true;[];[123];[];
+webbit;74d2d2b87704d003acacb34e4ca8fb5f897b938f;org.webbitserver.netty.WebSocketClient;adjustPipelineToWebSocket(ChannelHandlerContext, MessageEvent, ChannelHandler, ChannelHandler);[260];true;[];[262];[];
+resty-gwt;867b917c43c32acbdcac55767e7f04334006c866;org.fusesource.restygwt.rebind.DirectRestServiceInterfaceClassCreator;getMethodCallback(JMethod);[83, 84, 85];true;[];[86, 87, 88, 89, 90, 91];[];
+HikariCP;1bca94af9ec625f21d1b58ff10efb5be71ab87a6;com.zaxxer.hikari.HikariPool;addConnection();[356, 372, 374, 365];true;[];[339, 340, 341, 342, 343, 344, 345, 362, 346, 348];[];

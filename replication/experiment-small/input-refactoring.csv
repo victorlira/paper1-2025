@@ -1,0 +1,5 @@
+id,repository,merge commit,className,left modifications,right modifications
+4,https://github.com/netty/netty.git,193acdb36cd3da9bfc62dd69c4208dff3f0a2b1b,org.jboss.netty.handler.codec.frame.LengthFieldBasedFrameDecoder,[358; 360],[322; 374]
+5,https://github.com/opentripplanner/OpenTripPlanner.git,4c506dce43775704919d084f0acfba86d251bf4a,org.opentripplanner.routing.spt.MultiShortestPathTree,[144; 146; 147; 148; 149; 152; 141],[123]
+7,https://github.com/resty-gwt/resty-gwt.git,867b917c43c32acbdcac55767e7f04334006c866,org.fusesource.restygwt.rebind.DirectRestServiceInterfaceClassCreator,[83; 84; 85],[86; 87; 88; 89; 90; 91]
+8,https://github.com/brettwooldridge/HikariCP.git,1bca94af9ec625f21d1b58ff10efb5be71ab87a6,com.zaxxer.hikari.HikariPool,[356; 372; 374; 365],[339; 340; 341; 342; 343; 344; 345; 362; 346; 348]
